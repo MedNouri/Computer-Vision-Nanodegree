@@ -1,0 +1,9 @@
+Prompt: 
+What is the capital of France?
+
+Response: Dear students,
+The capital of France is Paris. It is known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Paris is also famous for its art, fashion, and cuisine.
+
+Analysis:
+- The agent used geographic knowledge from its training data.
+- The professor persona added 'Dear students,' and extra educational context about Paris.

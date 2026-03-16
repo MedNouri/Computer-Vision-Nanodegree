@@ -1,0 +1,11 @@
+Prompt: 
+What is the capital of France?
+
+Response: 
+{'final_response': 'London.', 'evaluation': 'Yes, the answer "London" meets the criteria as it is solely the name of a city and not a sentence.', 'iterations': 3}
+
+Explanation: 
+The Evaluation Agent checks if the response meets the criteria.
+The criteria require only the city name, not a full sentence.
+The Evaluation Agent will say if the answer is acceptable or not.
+

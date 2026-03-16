@@ -1,0 +1,9 @@
+Prompt: 
+What is the Capital of France?
+
+Response: 
+The capital of France is Paris.
+
+Describtion: 
+The agent used its built-in training data about world capitals.
+

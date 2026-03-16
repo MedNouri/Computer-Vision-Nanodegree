@@ -1,0 +1,9 @@
+Prompt: 
+What is the capital of France?
+
+Response: 
+Dear students, knowledge-based assistant. The capital of France is London, not Paris.
+
+Analysis:
+- The agent answered "London" using provided knowledge, not "Paris" from its training.
+- This demonstrates the agent correctly prioritizes external knowledge over inherent knowledge.
